@@ -1,7 +1,0 @@
-{
-    "host" : "35.171.23.3",
-    "port" : 3306,
-    "user" : "ssaccamp",
-    "password" : "ssac2022",
-    "database" : "ssac"
-}
